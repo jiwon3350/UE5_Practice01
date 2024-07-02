@@ -1201,3 +1201,60 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.02-04.06.01:342][  1]Running Python start-up script 'D:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.040206 secs
 [2024.07.02-04.06.01:573][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2024.07.02-04.06.03:462][101]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2024.07.02-04.07.09:128][764]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.02-04.08.34:553][663]LogDerivedDataCache: C:/Users/202191022/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.562 and deleted 1 files with total size 0 MiB and 0 empty folders. Scanned 21537 files in 22500 folders with total size 3098 MiB.
+[2024.07.02-04.23.00:940][513]LogSlate: Window 'New Level' being destroyed
+[2024.07.02-04.23.00:944][513]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.02-04.23.00:944][513]LightingResults: New page: Lighting Build
+[2024.07.02-04.23.00:944][513]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.07.02-04.23.00:973][513]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.07.02-04.23.00:973][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.02-04.23.00:975][513]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.07.02-04.23.00:975][513]MapCheck: New page: Map Check
+[2024.07.02-04.23.00:975][513]LightingResults: New page: Lighting Build
+[2024.07.02-04.23.00:978][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.02-04.23.00:992][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.07.02-04.23.00:999][513]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.07.02-04.23.00:999][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.02-04.23.00:999][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.02-04.23.00:999][513]LogAIModule: Creating AISystem for world Untitled_2
+[2024.07.02-04.23.01:060][513]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.02-04.23.01:064][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.07.02-04.23.01:064][513]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.02-04.23.01:065][513]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2024.07.02-04.23.13:438][335]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.02-04.23.13:454][335]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.02-04.23.13:568][337]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.02-04.23.15:682][445]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2024.07.02-04.23.15:683][445]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.02-04.23.32:268][189]LogSlate: Window 'Save Level As' being destroyed
+[2024.07.02-04.23.32:335][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-04.23.32:357][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.07.02-04.23.32:363][189]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004702 seconds
+[2024.07.02-04.23.32:370][189]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.07.02-04.23.32:370][189]LogSavePackage: Moving 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Saved/DevMap3FBAA4EE4EB5D875D3E1429B829209FA.tmp' to 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap'
+[2024.07.02-04.23.32:383][189]LogFileHelpers: Saving map 'DevMap' took 0.105
+[2024.07.02-04.23.32:383][189]Cmd: MAP LOAD FILE="C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.02-04.23.32:383][189]LightingResults: New page: Lighting Build
+[2024.07.02-04.23.32:383][189]LoadErrors: New page: Loading map: DevMap.umap
+[2024.07.02-04.23.32:402][189]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.02-04.23.32:402][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.02-04.23.32:402][189]MapCheck: New page: Map Check
+[2024.07.02-04.23.32:402][189]LightingResults: New page: Lighting Build
+[2024.07.02-04.23.32:405][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.02-04.23.32:407][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.07.02-04.23.32:410][189]LogAudio: Display: Audio Device (ID: 1) registered with world 'DevMap'.
+[2024.07.02-04.23.32:410][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.02-04.23.32:410][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.02-04.23.32:410][189]LogAIModule: Creating AISystem for world DevMap
+[2024.07.02-04.23.32:472][189]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.02-04.23.32:476][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.07.02-04.23.32:478][189]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.02-04.23.32:478][189]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2024.07.02-04.23.32:480][189]AssetCheck: New page: Asset Save: DevMap
+[2024.07.02-04.23.32:480][189]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DevMap.DevMap
+[2024.07.02-04.24.07:143][ 61]LogSlate: External Image Picker: DecompressImage failed
+[2024.07.02-04.24.07:237][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.02-04.24.10:211][178]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.02-04.24.16:201][699]LogSlate: Window 'Project Settings' being destroyed
+[2024.07.02-04.24.16:206][699]LogSlate: Window 'Project Settings' being destroyed
