@@ -2747,3 +2747,34 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.02-13.47.56:373][204]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2024.07.02-13.50.28:031][774]LogDerivedDataCache: C:/Users/202191022/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.076 and deleted 20 files with total size 0 MiB and 2 empty folders. Scanned 21491 files in 22527 folders with total size 3096 MiB.
 [2024.07.02-14.50.28:952][580]LogDerivedDataCache: C:/Users/202191022/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.997 and deleted 5 files with total size 0 MiB and 0 empty folders. Scanned 21471 files in 22525 folders with total size 3095 MiB.
+[2024.07.02-15.03.25:074][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.02-15.03.25:117][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-15.03.25:154][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.02-15.03.25:167][159]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.07.02-15.03.25:167][159]LogSavePackage: Moving 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Saved/DevMapDBD3B406486A65FD3013DF9DA849F13F.tmp' to 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap'
+[2024.07.02-15.03.25:173][159]LogFileHelpers: Saving map 'DevMap' took 0.056
+[2024.07.02-15.03.25:178][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 4.92 sec)
+[2024.07.02-15.03.25:180][159]AssetCheck: New page: Asset Save: DevMap
+[2024.07.02-15.03.25:180][159]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DevMap.DevMap
+[2024.07.02-15.03.25:505][196]BlueprintLog: New page: Compile DevMap
+[2024.07.02-15.03.25:528][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.07.02-15.03.26:233][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.02-15.03.26:284][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-15.03.26:319][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.07.02-15.03.26:330][276]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.07.02-15.03.26:331][276]LogSavePackage: Moving 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Saved/DevMap0F8541A44EFD62C6ECEE1892DB88FB81.tmp' to 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap'
+[2024.07.02-15.03.26:337][276]LogFileHelpers: Saving map 'DevMap' took 0.053
+[2024.07.02-15.03.26:342][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.03 sec)
+[2024.07.02-15.03.26:343][276]AssetCheck: New page: Asset Save: DevMap
+[2024.07.02-15.03.26:343][276]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DevMap.DevMap
+[2024.07.02-15.25.48:221][913]BlueprintLog: New page: Compile DevMap
+[2024.07.02-15.25.48:243][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.07.02-15.25.48:699][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.02-15.25.48:743][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-15.25.48:779][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.02-15.25.48:789][965]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.07.02-15.25.48:790][965]LogSavePackage: Moving 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Saved/DevMap142817924643A5A65493DC9C8EF87BFF.tmp' to 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap'
+[2024.07.02-15.25.48:795][965]LogFileHelpers: Saving map 'DevMap' took 0.053
+[2024.07.02-15.25.48:801][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 5.13 sec)
+[2024.07.02-15.25.48:803][965]AssetCheck: New page: Asset Save: DevMap
+[2024.07.02-15.25.48:803][965]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DevMap.DevMap
