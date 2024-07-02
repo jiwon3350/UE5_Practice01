@@ -2308,3 +2308,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.02-12.08.15:425][397]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DevMap.DevMap
 [2024.07.02-12.08.17:272][495]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
 [2024.07.02-12.08.18:460][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.07.02-12.50.28:044][599]LogDerivedDataCache: C:/Users/202191022/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:40.089 and deleted 78 files with total size 1 MiB and 12 empty folders. Scanned 21568 files in 22538 folders with total size 3097 MiB.
+[2024.07.02-12.54.11:901][338]BlueprintLog: New page: Compile DevMap
+[2024.07.02-12.54.11:923][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.02-12.54.12:388][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.02-12.54.12:439][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DevMap" FILE="C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.02-12.54.12:476][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.07.02-12.54.12:486][386]LogSavePackage: Moving output files for package: /Game/Maps/DevMap
+[2024.07.02-12.54.12:487][386]LogSavePackage: Moving 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Saved/DevMap607C888C4D3793F6D9457893456CCE11.tmp' to 'C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap'
+[2024.07.02-12.54.12:492][386]LogFileHelpers: Saving map 'DevMap' took 0.054
+[2024.07.02-12.54.12:498][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 4.07 sec)
+[2024.07.02-12.54.12:500][386]AssetCheck: New page: Asset Save: DevMap
+[2024.07.02-12.54.12:500][386]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/DevMap.DevMap
