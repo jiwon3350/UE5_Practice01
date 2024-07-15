@@ -6,9 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/DevMap.umap",
+				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/MyFuncLib.uasset",
+				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Maps/2D_Game_Map.umap",
+				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/2D_Art_Resource/BG.uasset",
+				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/2D_Art_Resource/BG_Sprite.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/EState.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/ERockPaperScissors.uasset",
-				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/MyFuncLib.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/BP_Monster.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/BP_Orc.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/I_Flyable.uasset",
