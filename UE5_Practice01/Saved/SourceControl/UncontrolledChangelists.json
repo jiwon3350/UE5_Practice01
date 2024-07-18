@@ -118,6 +118,8 @@
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/2D_Art_Resource/Sprites/Knight/up-move/up_move_05_Sprite.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/2D_Art_Resource/Sprites/Knight/up-move/up_move_06_Sprite.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/BP_Knight.uasset",
+				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/EDirection.uasset",
+				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/EState.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/EState.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/ERockPaperScissors.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/BP_Monster.uasset",
@@ -125,7 +127,6 @@
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/I_Flyable.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/StatInfo.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/BP_Player.uasset",
-				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/BP_Knight.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/BP_Archer.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/Bp_Mage.uasset",
 				"C:/Users/202191022/Desktop/UE5_Practice01/UE5_Practice01/UE5_Practice01/Content/Blueprint/RockPaperScissors.uasset"
